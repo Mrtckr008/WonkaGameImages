@@ -18,5 +18,3 @@ I have been developing this game for 7 months alone. The designs are made by a m
 <img src="https://user-images.githubusercontent.com/32914909/91537583-33c49280-e91f-11ea-8ee9-a408b3b22477.png" width="400" height="700"><figcaption> Game maps feature is ready. We did not write maps story for now. First is default map. There is no feature for it. The ice map frozes some cards as step. User can not open these cards. The labyrinth map is so weird :) All cards shift one to the right each time users select a card. (if the card is on the far right of the screen, the card will slide down). One of the hardest maps we have ever created. It is so difficult to keep the moving cards in memory that we cannot finish the game :) We are considering reducing the number of cards for this map. We have some idea about other maps. But we did not start them yet. </figcaption> 
 
 <img src="https://user-images.githubusercontent.com/32914909/91537815-8dc55800-e91f-11ea-93bf-6fa88f7736f8.png" width="400" height="700"><figcaption> Our in-game screen looks like this. Everything is ready except the skill cards. </figcaption> 
-
-
