@@ -5,10 +5,10 @@ I have been developing this game for 7 months alone. The designs are made by a m
 
 <img src="https://user-images.githubusercontent.com/32914909/91537176-8c476000-e91e-11ea-81d8-5b4d020b9df1.png" width="400" height="700"><figcaption>Main Screen </figcaption> 
 
-<img src="https://user-images.githubusercontent.com/32914909/91537381-de888100-e91e-11ea-8ffe-76192c5728ee.png" width="400" height="700"> <figcaption>My Collection screen - Ordinary Skill Cards is connected with DB. The other cards is static image for now. They will be connected. </figcaption> 
+<img src="https://user-images.githubusercontent.com/32914909/91537381-de888100-e91e-11ea-8ffe-76192c5728ee.png" width="400" height="700"> <figcaption>My Collections screen - Ordinary Skill Cards is connected with DB (skill cards are not yet categorized). The other collections is static image for now. They will be connected. </figcaption> 
 
 
-<img src="https://user-images.githubusercontent.com/32914909/91537435-f95af580-e91e-11ea-8301-af951bdc0258.png" width="400" height="700"><figcaption>My Collection screen - Ordinary Skill Cards is connected with DB. The other cards is static image for now. They will be connected. </figcaption> 
+<img src="https://user-images.githubusercontent.com/32914909/91537435-f95af580-e91e-11ea-8301-af951bdc0258.png" width="400" height="700"><figcaption>Options Screen - Game music&sound are not yet ready. The other features are ready. </figcaption> 
 
 <img src="https://user-images.githubusercontent.com/32914909/91537532-1b547800-e91f-11ea-89ef-a4ef481a0397.png" width="400" height="700"> <figcaption>My Collection screen - Ordinary Skill Cards is connected with DB. The other cards is static image for now. They will be connected. </figcaption> 
 
