@@ -5,6 +5,8 @@ I have been developing this game for 7 months alone. The designs are made by a m
 
 <img src="https://user-images.githubusercontent.com/32914909/91537176-8c476000-e91e-11ea-81d8-5b4d020b9df1.png" width="400" height="700"> <img src="https://user-images.githubusercontent.com/32914909/91537381-de888100-e91e-11ea-8ffe-76192c5728ee.png" width="400" height="700"> 
 
+1.1 Main Screen                   2.1 My Collection Screen 
+
 
 <img src="https://user-images.githubusercontent.com/32914909/91537435-f95af580-e91e-11ea-8301-af951bdc0258.png" width="400" height="700"> <img src="https://user-images.githubusercontent.com/32914909/91537532-1b547800-e91f-11ea-89ef-a4ef481a0397.png" width="400" height="700"> 
 
